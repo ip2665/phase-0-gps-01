@@ -11,5 +11,5 @@ git push origin master
 ```ruby
 puts "Hello world"
 ```
-Go to [this page](https://github.com/)
+See this [picture](GPS.png)
 
